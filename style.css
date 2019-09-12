@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+/*all <a> elements. */
+a {
+	color:red;
+}
+/*all <li> elements. */
+li {
+	color: red;
+}
+h2 {
+	color: black;
+}
+span {
+	background-color: skyblue;
+}
+li{
+	font-size: 160%;
+}
+html{
+    background-color: blue;
+}
+h1 {
+	width: 20%;
+	background-color: silver;
+	border: 1px solid red;
+}
